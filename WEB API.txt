@@ -1,0 +1,3 @@
+.net core Web api 
+
+install package :EF core,EF tools,

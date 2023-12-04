@@ -1,0 +1,3 @@
+ Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+Scaffold-DBContext "Data Source=CVC222;Initial Catalog=MyDb1;Persist Security Info=True;User ID=sa;Password=cybage@123456;Encrypt=false;"  Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

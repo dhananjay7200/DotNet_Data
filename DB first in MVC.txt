@@ -1,0 +1,8 @@
+in program .cs
+builder.Services.AddDbContext<MyDb2Context>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("Mycon")));
+
+
+app settibg.js
+"ConnectionStrings": {
+    "Mycon": "Data Source=cvc222;Initial Catalog=MyDb2;User ID=sa;Password=cybage@123456"
+  },

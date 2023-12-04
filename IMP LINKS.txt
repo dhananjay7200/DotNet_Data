@@ -1,0 +1,8 @@
+Threadings:
+https://www.c-sharpcorner.com/article/Threads-in-CSharp/
+
+or throw ex
+https://stackoverflow.com/questions/730250/is-there-a-difference-between-throw-and-throw-ex
+
+Entity Framework
+https://www.entityframeworktutorial.net/what-is-entityframework.aspx
